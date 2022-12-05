@@ -9,6 +9,9 @@
 <p align="left">
 <a href="https://fb.com/franciscojavier.caballe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="franciscojavier.caballe" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/francisco-caballe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="franciscojavier.caballe" height="30" width="40" /></a>
+</p>
 <p>e-mail: francaballe@gmail.com</p>
 <p>Phone: +54 9 11 3363-4519</p>
 
