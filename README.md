@@ -3,8 +3,8 @@
 <div>
     <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=francaballe&label=Profile%20views&color=0e75b6&style=flat" alt="francaballe" /> </p>
-    - 🌱 I’m currently learning **TypeScript and more about Auth0**
-    - 📫 How to reach me **francaballe@gmail.com** or via Phone Number: +54 9 11 3363-4519
+    <p>🌱 I’m currently learning **TypeScript and more about Auth0**</p> 
+    <p>📫 How to reach me **francaballe@gmail.com** or via Phone Number: +54 9 11 3363-4519</p> 
 </div>
 
 <h3 align="left">Connect with me:</h3>
