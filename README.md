@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/francisco-caballe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-caballe" height="30" width="40" /></a>
 <a href="https://fb.com/franciscojavier.caballe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="franciscojavier.caballe" height="30" width="40" /></a>
+<a href="https://instagram.com/caballefran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caballefran" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
