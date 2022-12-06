@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francaballe&label=Profile%20views&color=0e75b6&style=flat" alt="francaballe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francaballe" alt="francaballe" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScript and more about Auth0**
 
 - 📫 How to reach me **francaballe@gmail.com** or via Phone Number: +54 9 11 3363-4519
